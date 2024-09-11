@@ -1,0 +1,67 @@
+body{
+        
+      background-color: rgb(253, 249, 249);
+
+}
+
+.pdestaque{
+      color:rgb(0, 255, 21);
+
+
+}
+
+.pnormal{
+            color: #5E14E3;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 25px;
+            margin-left: 0;
+            padding: 0;
+            text-align: center;
+            
+            
+
+
+}
+.list{
+      list-style-type: none;
+
+}
+
+.tdestaque{
+            color:#E32114;
+            font-style: italic;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 50px ;
+            text-align: center;
+            padding: 15px;
+
+
+}
+
+.container{
+            display:flex ;
+            text-align: center;
+            margin-left: 280px ;
+            width: 300px;
+
+
+}
+#margin{
+            margin-left: 15px;
+
+}
+
+.image{
+
+                  margin: 40px;
+                  width: 400px;
+                              
+
+}
+.independente{
+                  
+                  color:#E6381C;
+                  text-align: center;          
+
+}
+
